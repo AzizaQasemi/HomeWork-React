@@ -1,0 +1,21 @@
+.ExpenseItemY{
+    margin: auto;
+    background-color: aqua;
+    width: 250px;
+    border-radius: 130px;
+}
+.name{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+}
+.date{
+    text-align: center;
+    padding-top: 28px;
+}
+.price{
+    text-align: center;
+    padding-top: 28px;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
